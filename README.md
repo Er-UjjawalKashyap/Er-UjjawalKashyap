@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Er-UjjwalKashyap&label=PROFILE%20VISITS&color=blueviolet&style=flat" alt="Er-UjjwalKashyap"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Er-UjjawalKashyap&label=PROFILE%20VISITS&color=blueviolet&style=flat" alt="Er-UjjawalKashyap"/> </p>
 
 <h1 align="center">Hello 👋, I’m <b>Ujjwal Kashyap</b></h1>
 
@@ -18,15 +18,15 @@
 <!--  GitHub Stats -->
 <p> 
   <img align="left" 
-       src="https://github-readme-stats.vercel.app/api?username=Er-UjjwalKashyap&local=en&theme=onedark&hide_border=true&show_icons=true" 
-       alt="Er-UjjwalKashyap" width="47%"
+       src="https://github-readme-stats.vercel.app/api?username=Er-UjjawalKashyap&local=en&theme=onedark&hide_border=true&show_icons=true" 
+       alt="Er-UjjawalKashyap" width="47%"
   />
 </p>
 
 <!--  Streak Stats -->
 <p> 
   <img align="left" 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=Er-UjjwalKashyap&theme=onedark&hide_border=true" 
-       alt="Er-UjjwalKashyap" width="47%"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=Er-UjjawalKashyap&theme=onedark&hide_border=true" 
+       alt="Er-UjjawalKashyap" width="47%"
   />
 </p>
