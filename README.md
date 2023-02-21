@@ -9,10 +9,7 @@
 
 <!--  Wakatime stats -->
 <p> 
-  <img align="center" 
-       src="https://github-readme-stats.vercel.app/api/wakatime?username=me_Ujjwal&layout=compact&langs_count=8&theme=onedark&hide_border=true" 
-       alt="me_Ujjwal" width="47%" height="100%"
-  />
+<img src="https://wakatime.com/share/@me_Ujjwal/b1c57dd4-a353-407b-b96b-7e97f7184652.png" alt="me_Ujjwal" width="47%" height="100%" />" 
 </p>
 
 <!--  GitHub Stats -->
