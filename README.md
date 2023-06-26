@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello 👋, I’m <b>Ujjwal Kashyap</b></h1>
 
-> #### 🌱 I’m Currently Learning : Servlet
+> #### 🌱 I’m Currently Learning : Data Structures & Algorithms
 > #### 🏆 <i>My Wakatime Insights</i> : 
 
 
